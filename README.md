@@ -8,6 +8,8 @@ This project was created to gain experience using [Three.js](https://threejs.org
 
 What you will find is a rotating model of Mars.
 
+You can view the project here [Mars](https://rasnerk.github.io/mars/).
+
 ## How to open Mars locally
 
 ### `Fork or Clone Repository`
