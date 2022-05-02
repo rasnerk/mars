@@ -6,7 +6,7 @@ function Mars() {
 
     // Load in Textures for Mars & Stars
     const marsSkin = useLoader(THREE.TextureLoader, 'mars.jpg')
-    const stars = useLoader(THREE.TextureLoader, 'stars2.jpg')
+    const stars = useLoader(THREE.TextureLoader, 'stars.jpg')
     
     // Define Mars Mesh for ability to rotate
     const marsMesh = React.useRef();
